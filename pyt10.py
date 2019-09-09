@@ -1,0 +1,6 @@
+a=input()
+b=a.index("s")
+print(b)
+i=len(a)
+print(i)
+print(a)
